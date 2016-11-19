@@ -95,10 +95,11 @@
         "company": "iOS @ Taipei",
         "companyLogo": "",
         "country": "Taiwan",
-        "photoUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/10543650_10152573500782451_6143852327074234396_n.jpg?oh=71b60f2d0c742237278555e4bef7d4cf&oe=58C8ACE0",
-        "shortBio": "",
+        "photoUrl": "https://dl.dropboxusercontent.com/u/81233286/head.jpg",
+        "shortBio": "iOS@Taipei、2015/16年臺大黑客松評審",
         "bio": "",
         "tags": [
+            "嘴砲",
             "iOS"
         ],
         "badges": [
@@ -156,7 +157,7 @@
         "name": "Evan Lin 林宜鋒",
         "title": "Cloud Architect",
         "company": "Linker Networks",
-        "companyLogo": "http://image.cnbp.net/logo/c604070c-86a1-420f-93d4-073e65ba0344.png",
+        "companyLogo": "",
         "country": "Taipei, Taiwan",
         "photoUrl": "http://confapi.ithome.com.tw/sites/default/files/speaker_avatar/%E6%9E%97%E5%AE%9C%E9%8B%92Evan_%E7%B6%B2%E7%AB%99%E7%94%A8.PNG",
         "shortBio": "Cloud Architect at Linker Networks, Co-organizer of Golang Taiwan User Group.",
@@ -184,8 +185,8 @@
         "featured": false,
         "name": "Williams",
         "title": "Android Engineer",
-        "company": "Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會",
-        "companyLogo": "../images/logos/TADSG_logo.png",
+        "company": "",
+        "companyLogo": "",
         "country": "Taiwan",
         "photoUrl": "",
         "shortBio": "Android enthusiast.",
@@ -203,10 +204,10 @@
     "10": {
         "id": 10,
         "featured": true,
-        "name": "Araon Lai / 賴顗安",
+        "name": "Araon Lai",
         "title": "Data Scientist",
-        "company": "GliaCloud Co. Ltd.",
-        "companyLogo": "https://pbs.twimg.com/profile_images/641885889656819714/qdNlR-mT.png",
+        "company": "GliaCloud",
+        "companyLogo": "",
         "country": "Taipei, Taiwan",
         "photoUrl": "https://lh4.googleusercontent.com/1MzoVFxc7SHFczUaY_fq_ItnvcAvzAgEG6wdoCmE0eYBAdNwjac6RFftsMki2E0OGAM4fEu3ngLT4GM=w2880-h1554",
         "shortBio": "Yi-An Lai is a Data Scientist in GliaCloud and participates in the core development of GliaStudio, an artificial intelligence video creation platform.",
@@ -229,7 +230,7 @@
         "company": "",
         "companyLogo": "",
         "country": "Taipei, Taiwan",
-        "photoUrl": "../images/people/AkaneLee.jpg",
+        "photoUrl": "https://lh6.googleusercontent.com/_2ZdEsMCocj2IckP-xCXNO3eMUVBoXKbfoGuPPhBADSpQrBeJiKdZGUj1YlrzV8XsQ3aUoPr2SfHbKE=w2880-h1464",
         "shortBio": "嫁給 RD 的 UI Designer，為了能讓老公準時下班，所以努力推廣 UI/UX 設計方面的知識與技術。希望設計師能和工程師合作順利，成為專案開發中的重要戰力。",
         "bio": "嫁給 RD 的 UI Designer，為了能讓老公準時下班，所以努力推廣 UI/UX 設計方面的知識與技術。希望設計師能和工程師合作順利，成為專案開發中的重要戰力。",
         "tags": [
@@ -251,7 +252,7 @@
         "company": "ASUSTeK Computer Inc. 華碩電腦",
         "companyLogo": "http://myzen.asus.com/wp-content/uploads/2016/07/asus_logo_ISOI.png",
         "country": "Taipei, Taiwan",
-        "photoUrl": "../images/people/ASUS_JOHN.JPG",
+        "photoUrl": "https://lh3.googleusercontent.com/dtyd7k9ieWZwmuAo8VcDLW6EvliYykRqUrlHl92WdnURjo2e85QM0vhTj6fazbAQoRrA0qbJ9df1Cs4=w2880-h1464",
         "shortBio": "華碩達文西創新實驗室軟體研發二處處長，目前負責 Zenbo 上層軟體 App 與服務開發",
         "bio": "Zenbo project 應用軟體開發主管，Zenfone 系列應用軟體開發，Android/Windows Mobile phone 應用軟體開發主管",
         "tags": [
@@ -261,8 +262,8 @@
         ],
         "badges": [
             {
-                "name": "ASUS",
-                "description": "ASUSTeK Computer Inc.",
+                "name": "ASUStek",
+                "description": "ASUStek Corporation",
                 "link": ""
             }
         ],
@@ -272,13 +273,13 @@
     },
     "13": {
         "id": 13,
-        "featured": true,
-        "name": "Andrew Chen / 陳勇志",
+        "featured": false,
+        "name": "陳勇志",
         "title": "",
-        "company": "Android Taipei 開發者社群",
+        "company": "",
         "companyLogo": "",
         "country": "Taipei, Taiwan",
-        "photoUrl": "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/13735823_10153955843069118_6923480853648942927_o.jpg",
+        "photoUrl": "",
         "shortBio": "",
         "bio": "",
         "tags": [
@@ -297,7 +298,7 @@
         "name": "Mosky Liu / 劉依語",
         "title": "Python Charmer",
         "company": "Pinkoi",
-        "companyLogo": "http://cdn04.pinkoi.com/pinkoi.site/logo/logo_20160510_zh_TW.png",
+        "companyLogo": "",
         "country": "Taipei, Taiwan",
         "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAhKAAAAJGJjOGIzMjJjLWMwOWQtNDM3MC1iYzEwLTJmYWEyNTg2YzE5NQ.jpg",
         "shortBio": "Mosky 是 Pinkoi 的 Python Charmer，和同事一起打造能夠買到特別禮物的購物平台，也是個熱愛 open source 精神的 Python 工程師。",
@@ -341,10 +342,10 @@
     "16": {
         "id": 16,
         "featured": true,
-        "name": "Cateyes Lin",
+        "name": "Cateyes",
         "title": "Android Developer",
         "company": "Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會",
-        "companyLogo": "../images/logos/TADSG_logo.png",
+        "companyLogo": "",
         "country": "Taipei, Taiwan",
         "photoUrl": "",
         "shortBio": "TADSG member, Android enthusiast.",
@@ -366,12 +367,12 @@
     "17": {
         "id": 17,
         "featured": true,
-        "name": "Charlie Tsai / 蔡哲昇",
+        "name": "Charlie Tsai",
         "title": "Senior Android Developer",
-        "company": "Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會",
-        "companyLogo": "../images/logos/TADSG_logo.png",
+        "company": "",
+        "companyLogo": "",
         "country": "Taipei, Taiwan",
-        "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/04a/00f/31dfaae.jpg",
+        "photoUrl": "",
         "shortBio": "TADSG Co-organizer, Android enthusiast. Frequent speaker on tech events. Future Googler. Before joining Google, he worked for nVidia Taiwan as an system developer.",
         "bio": "TADSG Co-organizer, Android enthusiast. Frequent speaker on tech events. Future Googler. Before joining Google, he worked for nVidia Taiwan as an system developer.",
         "tags": [
@@ -392,12 +393,12 @@
     "18": {
         "id": 18,
         "featured": true,
-        "name": "Takuma Lee / 李思諒",
+        "name": "Takuma Lee",
         "title": "Senior Android Developer",
         "company": "Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會",
-        "companyLogo": "../images/logos/TADSG_logo.png",
+        "companyLogo": "",
         "country": "Taipei, Taiwan",
-        "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAOaAAAAJDJkOGYzOTNmLWU1OTktNGIxNS1hYjM5LTQyOTY3ZTVjZDc2NA.jpg",
+        "photoUrl": "",
         "shortBio": "Founder of TADSG, Android enthusiast.",
         "bio": "Founder of TADSG, Android enthusiast.",
         "tags": [
@@ -411,6 +412,35 @@
         ],
         "socials": [
 
+        ]
+    },
+    "19": {
+        "id": 19,
+        "featured": false,
+        "name": "Unknown",
+        "title": "Unknown",
+        "company": "Unknown",
+        "companyLogo": "",
+        "country": "Unknown",
+        "photoUrl": "",
+        "shortBio": "Unknown",
+        "bio": "Unknown",
+        "tags": [
+            "Unknown"
+        ],
+        "badges": [
+            {
+                "name": "Unknown",
+                "description": "Unknown",
+                "link": ""
+            }
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": ""
+            }
         ]
     }
 }
